@@ -19,8 +19,8 @@
 #include "lwip/err.h"
 #include "lwip/sys.h"
 
-#define EXAMPLE_ESP_WIFI_SSID "mywifissid"
-#define EXAMPLE_ESP_WIFI_PASS "mywifipass"
+#define EXAMPLE_ESP_WIFI_SSID "MeanKoalaMagic"
+#define EXAMPLE_ESP_WIFI_PASS "Daniel Storer"
 #define EXAMPLE_MAX_STA_CONN (3)
 
 static const char *TAG = "wifi softAP";
