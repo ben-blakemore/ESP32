@@ -1,0 +1,1 @@
+Pinout source=https://www.mischianti.org/2021/05/30/esp32-wroom-32-esp32-s-flash-pinout-specs-and-ide-configuration-1/#:~:text=Enter%20flash%20mode&text=Hold%20down%20the%20FLASH%20button,Release%20FLASH%20button.
